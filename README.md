@@ -17,4 +17,4 @@ Let's take a look at it:-
 
 Project_Report: [Project_Report.pdf](https://github.com/smartinternz02/SPSGP-56412-Virtual-Internship---Android-Application-Development-Using-Kotlin/files/9678896/Project_Report.pdf)
 
-Video Demo Link: https://drive.google.com/drive/u/0/folders/1Distk16s8jjgag2oHZ6aClel2qgQt0pb
+Video Demo Link: https://drive.google.com/drive/folders/1NO-hKd16i1kOPej2lTM5BBnvc49I_xIT?usp=sharing
